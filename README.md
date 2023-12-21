@@ -31,3 +31,4 @@ Sinta-se à vontade para clonar o repositório e explorar a cativante interaçã
 ### Aviso
 
 Este projeto é um experimento em exploração criativa e não pretende aderir às normas artísticas tradicionais. Abrace o inesperado e aproveite a jornada no mundo da beleza randomizada.
+Este é um projeto conceitual. Reconheço que pode levar milhares de anos para surgir uma imagem legível. Não é destinado ao uso prático, mas sim como uma prova de conceito.
