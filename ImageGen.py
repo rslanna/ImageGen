@@ -7,8 +7,8 @@ import hashlib
 
 class ImageGeneratorApp:
     # Constantes da Classe
-    IMAGE_WIDTH = 150
-    IMAGE_HEIGHT = 100
+    IMAGE_WIDTH = 250
+    IMAGE_HEIGHT = 200
     UPDATE_INTERVAL = 150
     DATABASE_PATH = os.path.join("Data", "image_database.db")
     GENERATED_FOLDER = "Generated"
